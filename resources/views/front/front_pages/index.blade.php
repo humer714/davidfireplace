@@ -26,10 +26,9 @@
                             <div class="col-md-5 align-self-center order-2 order-md-1">
                                 <div class="slider-content-wrapper">
                                     <div class="slider-content">
-                                        <span class="slider-short-title">We are Transco</span>
-                                        <h1 class="slider-title">Safely Get Anything</h1>
-                                        <p class="slider-short-desc">Duis aute irure dolor in reprehenderit in voluptate
-                                            velit dolore eu fugiat nulla pariatur. </p>
+                                        <span class="slider-short-title">We are David Fireplace</span>
+                                        <h1 class="slider-title">Properly Clean Fireplaces</h1>
+                                        <p class="slider-short-desc">Reliable fireplace cleaning and chimney services to ensure safety.</p>
                                         <div class="slider-btn-wrapper">
                                             <a href="{{ route('services') }}" class="theme-btn">Read More<i
                                                     class="fa-solid fa-angle-right"></i></a>
@@ -60,10 +59,9 @@
                             <div class="col-md-5 align-self-center order-2 order-md-1">
                                 <div class="slider-content-wrapper">
                                     <div class="slider-content">
-                                        <span class="slider-short-title">Journey with Transco</span>
-                                        <h1 class="slider-title">Trusted Transport</h1>
-                                        <p class="slider-short-desc">Experience hassle-free journeys with our transport
-                                            solutions that prioritize your comfort.</p>
+                                        <span class="slider-short-title">Trust Us with Fireplaces</span>
+                                        <h1 class="slider-title">Reliable Chimney Services</h1>
+                                        <p class="slider-short-desc">Enjoy a safe, efficient fireplace with our expert services.</p>
                                         <div class="slider-btn-wrapper">
                                             <a href="{{ route('services') }}" class="theme-btn">Read More<i
                                                     class="fa-solid fa-angle-right"></i></a>
@@ -94,10 +92,9 @@
                             <div class="col-md-5 align-self-center order-2 order-md-1">
                                 <div class="slider-content-wrapper">
                                     <div class="slider-content">
-                                        <span class="slider-short-title">Efficiency in Motion</span>
-                                        <h1 class="slider-title">Largest Transport</h1>
-                                        <p class="slider-short-desc">Our transport services timely and dependable delivery
-                                            of your packages.</p>
+                                        <span class="slider-short-title">Safety in Every Sweep</span>
+                                        <h1 class="slider-title">Top Fireplace Services</h1>
+                                        <p class="slider-short-desc">Efficient, thorough chimney sweeping and fireplace inspections.</p>
                                         <div class="slider-btn-wrapper">
                                             <a href="{{ route('services') }}" class="theme-btn">Read More<i
                                                     class="fa-solid fa-angle-right"></i></a>
@@ -158,11 +155,10 @@
                                             <img src="{{ asset('front/asset2/images/icon/support.png') }}"
                                                 alt="support" />
                                         </div>
-                                        <h2 class="title">Premium<br />Logistics Support</h2>
+                                        <h2 class="title">Top Fireplace <br/>Service Experts</h2>
                                     </div>
                                     <div class="content">
-                                        <p class="desc">Knim ad minim veniam, quis nostrud exercitation ullamco laboris
-                                            nisi ut aliquip ex ea commodo consequat.</p>
+                                        <p class="desc">Our certified technicians provide expert fireplace cleaning, inspections, and repairs to ensure safety.</p>
                                         <div class="read-more">
                                             <a href="{{ route('services') }}">
                                                 <span class="icon">
@@ -189,13 +185,12 @@
                                                 alt="support" />
                                         </div>
                                         <h2 class="title">
-                                            Worldwide
-                                            <br />Product Delivery
+                                        Nationwide 
+                                            <br />Fireplace Services
                                         </h2>
                                     </div>
                                     <div class="content">
-                                        <p class="desc"> Cnim ad minim veniam, quis nostrud exercitation ullamco laboris
-                                            nisi ut aliquip ex ea commodo ponsequat.</p>
+                                        <p class="desc"> We offer reliable fireplace cleaning and chimney inspections across the country to keep your home safe.</p>
                                         <div class="read-more">
                                             <a href="{{ route('services') }}">
                                                 <span class="icon">
@@ -221,13 +216,12 @@
                                             <img src="{{ asset('front/asset2/images/icon/courier.png') }}"
                                                 alt="support" />
                                         </div>
-                                        <h2 class="title">Highly Skilled
-                                            <br />Logistics Parnters
+                                        <h2 class="title">Skilled Fireplace
+                                            <br />Experts 
                                         </h2>
                                     </div>
                                     <div class="content">
-                                        <p class="desc"> Pnim ad minim veniam, quis nostrud exercitation ullamco laboris
-                                            nisi ut aliquip ex ea commodo jonsequat.</p>
+                                        <p class="desc">Our skilled team ensures thorough fireplace cleaning and inspections, guaranteeing your fireplace is safe.</p>
                                         <div class="read-more">
                                             <a href="{{ route('services') }}">
                                                 <span class="icon">
@@ -253,11 +247,10 @@
                                             <img src="{{ asset('front/asset2/images/icon/unboxing.png') }}"
                                                 alt="support" />
                                         </div>
-                                        <h2 class="title">Safe & Secure<br />Product Delivery</h2>
+                                        <h2 class="title">Safe & Secure<br />Fireplace Care</h2>
                                     </div>
                                     <div class="content">
-                                        <p class="desc"> Qnim ad minim veniam, quis nostrud exercitation ullamco laboris
-                                            nisi ut aliquip ex ea commodo aonsequat.</p>
+                                        <p class="desc"> We provide safe and secure fireplace cleaning and chimney inspections to ensure your home stays warm.</p>
                                         <div class="read-more">
                                             <a href="{{ route('services') }}">
                                                 <span class="icon">
@@ -283,15 +276,15 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-title another-title">
-                        <span class="short-title">We are Transico</span>
-                        <h2 class="title">World Class <span>Logistic</span> and <span>Transportation</span></h2>
+                        <span class="short-title">We are David Fireplace</span>
+                        <h2 class="title">Top Tier <span>Fireplace</span> and <span>Chimney Care</span></h2>
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-6 col-md-6">
                     <div class="about-info-card style-three">
                         <div class="section-title">
-                            <span class="short-title">We are Transico</span>
-                            <h2 class="title">World Class <span>Logistic</span> and <span>Transportation</span></h2>
+                            <span class="short-title">We are David Fireplace</span>
+                            <h2 class="title">Top Tier <span>Fireplace</span> and <span>Chimney Care</span></h2>
                         </div>
                         <div class="about-info-wrapper">
                             <div class="about-info-img">
@@ -300,8 +293,8 @@
                             </div>
                             <div class="about-info-content">
                                 <div class="text">
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiatmnis iste natus error sit voluptatem acycu sa mnis iste natus error sit volup.
+                                    <p>We provide world-class fireplace cleaning, chimney inspections, and expert repairs.
+                                         Our certified technicians ensure your fireplace runs efficiently and safely, keeping your home cozy and secure all year round.
                                     </p>
                                 </div>
                                 <div class="skill-progressbar-wrapper">
@@ -343,8 +336,8 @@
                                                 alt="map">
                                         </div>
                                         <div class="content">
-                                            <h2 class="title">World Wide Service</h2>
-                                            <p class="desc">Pid voluptatem accusa neul nijer majhe pariatur.</p>
+                                            <h2 class="title">Nation Wide Service</h2>
+                                            <p class="desc">Expert fireplace cleaning and repairs across the country.</p>
                                         </div>
                                     </div>
                                     <div class="icon-card">
@@ -353,8 +346,8 @@
                                                 alt="map">
                                         </div>
                                         <div class="content">
-                                            <h2 class="title">Resonable Pricing</h2>
-                                            <p class="desc">Dit voluptatem accusa neul nijer majhe wariatue.</p>
+                                            <h2 class="title">Affordable Fireplace</h2>
+                                            <p class="desc">Quality fireplace services at affordable and transparent prices.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -395,16 +388,15 @@
                 <div class="col-lg-7">
                     <div class="section-title">
                         <span class="short-title">Our Service</span>
-                        <h2 class="title">Best <span>Logistic</span> Service
+                        <h2 class="title">Best <span>Fireplace</span> Service
                             <br> Anywhere
                         </h2>
                     </div>
                 </div>
                 <div class="col-lg-5 align-self-end">
                     <div class="section-content">
-                        <p class="mb-0">Muis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                            fugiatmnis iste na minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex
-                            ea dommode</p>
+                        <p class="mb-0">We offer the best fireplace cleaning, chimney inspections, and expert repairs to ensure safety and efficiency.
+                             Trusted by homeowners for top-quality service and affordable solutions nationwide.</p>
                     </div>
                 </div>
             </div>
@@ -457,9 +449,9 @@
                 <div class="col-lg-6">
                     <div class="section-title">
                         <span class="short-title">Why Choose Us</span>
-                        <h2 class="title">The <span>Fastest Way</span> To <br> Send & Recieve </h2>
-                        <p class="text">Wuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                            fugiatmnis ist met, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labory
+                        <h2 class="title">The <span>Fastest Way</span> To <br> Clean & Maintain</h2>
+                        <p class="text">This transformation maintains the structure while fitting your fireplace and chimney services.
+                             Let me know if you'd like to make any adjustments!
                         </p>
                     </div>
                 </div>
@@ -469,9 +461,9 @@
                             <img src="{{ asset('front/asset2/images/icon/world-shipping.png') }}" alt="map" />
                         </div>
                         <div class="content">
-                            <h2 class="title">Secure Transportation</h2>
-                            <p class="desc">Pmni ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
-                                ore et dolore magna aliqua. Ut enim ad minim yenie</p>
+                            <h2 class="title">Safe Fireplace Maintenance</h2>
+                            <p class="desc">Our expert fireplace and chimney cleaning services ensure safety, efficiency,
+                                 and peace of mind for your home, preventing potential hazards</p>
                         </div>
                     </div>
                     <div class="icon-card">
@@ -479,9 +471,9 @@
                             <img src="{{ asset('front/asset2/images/icon/info-tracking.png') }}" alt="map" />
                         </div>
                         <div class="content">
-                            <h2 class="title">Online Realtime Tracking</h2>
-                            <p class="desc">Hmin ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
-                                ore et dolore magna aliqua. Ut enim ad minim denis</p>
+                            <h2 class="title">Detailed Fireplace Inspection Reports</h2>
+                            <p class="desc">Get comprehensive reports for fireplace cleaning and inspections, 
+                                keeping you informed about the safety and condition of your fireplace system.</p>
                         </div>
                     </div>
                     <div class="icon-card">
@@ -489,9 +481,9 @@
                             <img src="{{ asset('front/asset2/images/icon/thumbs.png') }}" alt="map" />
                         </div>
                         <div class="content">
-                            <h2 class="title">Resonable Pricing</h2>
-                            <p class="desc">Qmin ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
-                                ore et dolore magna aliqua. Ut enim ad minim neniq</p>
+                            <h2 class="title">Affordable Fireplace Services</h2>
+                            <p class="desc">We offer affordable and transparent pricing for fireplace cleaning, inspections,
+                                 and repairs, ensuring high-quality services that fit your budget.</p>
                         </div>
                     </div>
                 </div>
@@ -532,8 +524,8 @@
                     <div class="accordion-wrapper style-two">
                         <div class="section-title mb-50">
                             <span class="short-title">Frequently Asked Questions</span>
-                            <h2 class="title text-white">The <span>Fastest </span> and <span>Reliable</span>
-                                <br />Courier Solutions
+                            <h2 class="title text-white">The <span>Safest </span> and <span>Trusted</span>
+                                <br />Fireplace Services
                             </h2>
                         </div>
 
@@ -543,15 +535,14 @@
                                 <div id="headingOne">
                                     <div class="accordion-head" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                         aria-expanded="true" aria-controls="collapseOne">
-                                        <h3 class="accordion-title">Why Transco is so popular service?</h3>
+                                        <h3 class="accordion-title">Why David Fireplace is the Best Choice?</h3>
                                     </div>
                                 </div>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     aria-labelledby="headingOne" data-bs-parent="#FAQStyle1FAQ">
                                     <div class="accordion-item-body">
-                                        <p>Pnim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu ore
-                                            et dolore magna aliqua. Ut enim ad minim ven mod tempor incidid unt ut labore et
-                                            dolore magna dliqua. </p>
+                                        <p>David Fireplace Cleaning is known for its expert services, affordable pricing, and commitment to safety.
+                                             Our skilled technicians ensure your fireplace and chimney function efficiently, making us a top choice. </p>
                                     </div>
                                 </div>
                             </div>
@@ -561,15 +552,14 @@
                                 <div id="headingTwo">
                                     <div class="accordion-head collapsed" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <h3 class="accordion-title">What is the pricing plans for transport?</h3>
+                                        <h3 class="accordion-title">What Are the Pricing Plans for Services?</h3>
                                     </div>
                                 </div>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#FAQStyle1FAQ">
                                     <div class="accordion-item-body">
-                                        <p>Onim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu ore
-                                            et dolore magna aliqua. Ut enim ad minim ven mod tempor incidid unt ut labore et
-                                            dolore magna eliqus. </p>
+                                        <p>We offer affordable pricing for all our fireplace and chimney services, including cleaning, inspections,
+                                             and repairs. Get transparent quotes based on your needs, with no hidden fees or surprises. </p>
                                     </div>
                                 </div>
                             </div>
@@ -580,15 +570,14 @@
                                     <div class="accordion-head collapsed" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        <h3 class="accordion-title">How to get a refund if curier fails?</h3>
+                                        <h3 class="accordion-title">How to Get a Refund if Service Fails?</h3>
                                     </div>
                                 </div>
                                 <div id="collapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="headingThree" data-bs-parent="#FAQStyle1FAQ">
                                     <div class="accordion-item-body">
-                                        <p>Enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu ore
-                                            et dolore magna aliqua. Ut enim ad minim ven mod tempor incidid unt ut labore et
-                                            dolore magna Uliqua. </p>
+                                        <p>If any of our fireplace services do not meet your expectations,
+                                             we offer a clear refund process. Your satisfaction is our priority, and we’ll resolve any issues promptly. </p>
                                     </div>
                                 </div>
                             </div>
@@ -599,16 +588,15 @@
                                     <div class="accordion-head collapsed" data-bs-toggle="collapse"
                                         data-bs-target="#collapseFour" aria-expanded="false"
                                         aria-controls="collapseFour">
-                                        <h3 class="accordion-title">When the musics over turn off the light?</h3>
+                                        <h3 class="accordion-title">When Service Is Complete, Close the Hearth?</h3>
                                         <div class="icon"></div>
                                     </div>
                                 </div>
                                 <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                                     data-bs-parent="#FAQStyle1FAQ">
                                     <div class="accordion-item-body">
-                                        <p>Anim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu ore
-                                            et dolore magna aliqua. Ut enim ad minim ven mod tempor incidid unt ut labore et
-                                            dolore magna aliqua. </p>
+                                        <p>Once your fireplace cleaning or inspection is done, we ensure everything is secure and safely closed.
+                                             Our technicians make sure your fireplace is safe to use before finishing the service. </p>
                                     </div>
                                 </div>
                             </div>
@@ -684,9 +672,8 @@
                             <div class="content-wrapper">
                                 <div class="content">
                                     <p class="text">
-                                        Kuis aute irure dolor in reprehenderit in vol uptate velit esse cillum
-                                        dolore egoiu fugiat nulla pariatur. Except eur
-                                        sint occaecat vadro maser akash amar cupi datat non proident, sunt in xulpd.
+                                    I hired David Fireplace Cleaning for chimney sweeping and maintenance. They provided excellent service, detailed inspection,
+                                     and fixed a chimney crack. Professional, courteous, and reliable—highly recommended for fireplace and chimney services!
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -696,8 +683,8 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Mike Peter</h2>
-                                            <p>Journalist</p>
+                                            <h2>Lorinzo Adkins</h2>
+                                            <p>Male</p>
                                         </div>
                                     </div>
                                     <div class="icon">
@@ -713,9 +700,9 @@
                             <div class="content-wrapper">
                                 <div class="content">
                                     <p class="text">
-                                        Wuis aute irure dolor in reprehenderit in vol uptate velit esse cillum
-                                        dolore egoiu fugiat nulla pariatur. Except eur
-                                        sint occaecat vadro maser akash amar cupi datat non proident, sunt in qulpe.
+                                    Once your fireplace cleaning or inspection is done,
+                                     we ensure everything is secure and safely closed.
+                                     Our technicians make sure your fireplace is safe to use before finishing the service.
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -725,13 +712,12 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Nayna Eva</h2>
-                                            <p>Traveller</p>
+                                            <h2>Shellie Sandberg</h2>
+                                            <p>female</p>
                                         </div>
                                     </div>
                                     <div class="icon">
-                                        <img src="{{ asset('front/asset2/images/icon/testimonial-quotation.png') }}"
-                                            alt="testimonial" />
+                                        <img src="{{ asset('front/asset2/images/icon/testimonial-quotation.png') }}" alt="testimonial" />
                                     </div>
                                 </div>
                             </div>
@@ -742,9 +728,8 @@
                             <div class="content-wrapper">
                                 <div class="content">
                                     <p class="text">
-                                        Ruis aute irure dolor in reprehenderit in vol uptate velit esse cillum
-                                        dolore egoiu fugiat nulla pariatur. Except eur
-                                        sint occaecat vadro maser akash amar cupi datat non proident, sunt in culpa.
+                                    Fast, reliable, and thorough service! David Fireplace Cleaning cleaned our gas fireplace and conducted a safety inspection.
+                                     Great communication and honest recommendations. Definitely trust them with chimney and fireplace needs.
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -754,12 +739,12 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Jewel Khan</h2>
-                                            <p>Traveller</p>
+                                            <h2>Russell Martin</h2>
+                                            <p>Male</p>
                                         </div>
                                     </div>
                                     <div class="icon">
-                                        <img src="{{ asset('front/asset2/mages/icon/testimonial-quotation.png') }}"
+                                        <img src="{{ asset('front/asset2/images/icon/testimonial-quotation.png') }}"
                                             alt="testimonial" />
                                     </div>
                                 </div>

@@ -43,15 +43,15 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section-title another-title">
-                        <span class="short-title">We are Transico</span>
-                        <h2 class="title">World Class <span>Logistic</span> and <span>Transportation</span></h2>
+                        <span class="short-title">We are David Fireplace</span>
+                        <h2 class="title">Top Tier <span>Fireplace</span> and <span>Chimney Care</span></h2>
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-6 col-md-6">
                     <div class="about-info-card style-three">
                         <div class="section-title">
                             <span class="short-title">We are Transico</span>
-                            <h2 class="title">World Class <span>Logistic</span> and <span>Transportation</span></h2>
+                            <h2 class="title">Top Tier <span>Fireplace</span> and <span>Chimney Care</span></h2>
                         </div>
                         <div class="about-info-wrapper">
                             <div class="about-info-img">
@@ -60,8 +60,8 @@
                             </div>
                             <div class="about-info-content">
                                 <div class="text">
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiatmnis iste natus error sit voluptatem acycu sa mnis iste natus error sit volup.
+                                    <p>We provide world-class fireplace cleaning, chimney inspections, 
+                                        and expert repairs. Our certified technicians ensure your fireplace runs efficiently and safely, keeping your home cozy and secure all year round.
                                     </p>
                                 </div>
                                 <div class="skill-progressbar-wrapper">
@@ -103,8 +103,8 @@
                                                 alt="map">
                                         </div>
                                         <div class="content">
-                                            <h2 class="title">World Wide Service</h2>
-                                            <p class="desc">Pid voluptatem accusa neul nijer majhe pariatur.</p>
+                                            <h2 class="title">Nation Wide Service</h2>
+                                            <p class="desc">Expert fireplace cleaning and repairs across the country.</p>
                                         </div>
                                     </div>
                                     <div class="icon-card">
@@ -112,8 +112,8 @@
                                             <img src="{{ asset('front/asset2/images/icon/shipment.png') }}" alt="map">
                                         </div>
                                         <div class="content">
-                                            <h2 class="title">Resonable Pricing</h2>
-                                            <p class="desc">Dit voluptatem accusa neul nijer majhe wariatue.</p>
+                                            <h2 class="title">Affordable Fireplace</h2>
+                                            <p class="desc">Quality fireplace services at affordable and transparent prices.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -234,10 +234,9 @@
                             aria-labelledby="nav-tab1" tabindex="0">
                             <div class="row">
                                 <div class="col-lg-7 col-sm-6 order-sm-1 order-2">
-                                    <p>Evsed do eiusmod tempor incididunt ut lab ore when the musics over turn</p>
-                                    <p>Kobita off the light when the musics over turn off the light said by JIm Morrison
-                                        tumi sopno charini
-                                        hoye khobor nio pa.</p>
+                                    <p>Our Commitment to Quality Fireplace and Chimney Care Services</p>
+                                    <p>We provide expert fireplace cleaning, repair, and safety inspections, ensuring safe,
+                                         efficient operation and peace of mind for your home.</p>
                                 </div>
                                 <div class="col-lg-5 col-sm-6 order-sm-2 order-1">
                                     <div class="image">
@@ -251,10 +250,9 @@
                             tabindex="0">
                             <div class="row">
                                 <div class="col-lg-7 col-sm-6 order-sm-1 order-2">
-                                    <p>Mvsed do eiusmod tempor incididunt ut lab ore when the musics over turn</p>
-                                    <p>Yobita off the light when the musics over turn off the light said by JIm Morrison
-                                        tumi sopno charini
-                                        hoye khobor nio da.</p>
+                                    <p>Our Vision for Safe, Efficient Fireplace and Chimney Solutions for All</p>
+                                    <p>We strive to deliver top-quality fireplace maintenance, repair, and safety checks,
+                                         ensuring every home stays warm, safe, and hazard-free.</p>
                                 </div>
                                 <div class="col-lg-5 col-sm-6 order-sm-2 order-1">
                                     <div class="image">
@@ -268,10 +266,9 @@
                             tabindex="0">
                             <div class="row">
                                 <div class="col-lg-7 col-sm-6 order-sm-1 order-2">
-                                    <p>Dvsed do eiusmod tempor incididunt ut lab ore when the musics over turn</p>
-                                    <p>Qobita off the light when the musics over turn off the light said by JIm Morrison
-                                        tumi sopno charini
-                                        hoye khobor nio la.</p>
+                                    <p>Our Principles for Trusted Fireplace Care and Superior Customer Satisfaction</p>
+                                    <p>We prioritize safety, efficiency, and quality in every fireplace cleaning,
+                                         inspection, and repair service to ensure customer satisfaction and peace of mind.</p>
                                 </div>
                                 <div class="col-lg-5 col-sm-6 order-sm-2 order-1">
                                     <div class="image">
@@ -308,15 +305,15 @@
                                     <h2>Company Founded</h2>
                                 </div>
                                 <div class="desc">
-                                    <p>Xolore magna aliqua enim ad minim ven mod tempor incididunt ut labore et doore magna
-                                        when the musics iver</p>
+                                    <p>David Fireplace Cleaning was founded on Nov 26, 2010, 
+                                        with a commitment to providing high-quality fireplace and chimney services to homeowners.</p>
                                 </div>
                             </div>
                             <div class="circle-wrapper">
                                 <div class="time-card-circle"></div>
                             </div>
                             <div class="time-card-time">
-                                <p class="time-card-date">Dec 23, 1983</p>
+                                <p class="time-card-date">Nov 26, 2010</p>
                             </div>
                         </div>
                         <div class="time-card-item">
@@ -325,15 +322,14 @@
                                     <h2>New Office Taken</h2>
                                 </div>
                                 <div class="desc">
-                                    <p>Lolore magna aliqua enim ad minim ven mod tempor incididunt ut labore et doore magna
-                                        when the musics pves</p>
+                                    <p>David Fireplace Cleaning expanded by opening a new office to better serve our growing customer base.</p>
                                 </div>
                             </div>
                             <div class="circle-wrapper">
                                 <div class="time-card-circle"></div>
                             </div>
                             <div class="time-card-time">
-                                <p class="time-card-date">Jan 23, 1984</p>
+                                <p class="time-card-date">April 10, 2011</p>
                             </div>
                         </div>
                         <div class="time-card-item">
@@ -342,15 +338,14 @@
                                     <h2>Become Top Company</h2>
                                 </div>
                                 <div class="desc">
-                                    <p>Tolore magna aliqua enim ad minim ven mod tempor incididunt ut labore et doore magna
-                                        when the musics cves</p>
+                                    <p>David Fireplace Cleaning had become a leading provider of reliable and safe fireplace and chimney services.</p>
                                 </div>
                             </div>
                             <div class="circle-wrapper">
                                 <div class="time-card-circle"></div>
                             </div>
                             <div class="time-card-time">
-                                <p class="time-card-date">Dec 23, 1983</p>
+                                <p class="time-card-date">August 15, 2014</p>
                             </div>
                         </div>
                         <div class="time-card-arrow">
@@ -382,9 +377,8 @@
                             <div class="content-wrapper">
                                 <div class="content">
                                     <p class="text">
-                                        Kuis aute irure dolor in reprehenderit in vol uptate velit esse cillum
-                                        dolore egoiu fugiat nulla pariatur. Except eur
-                                        sint occaecat vadro maser akash amar cupi datat non proident, sunt in xulpd.
+                                    I hired David Fireplace Cleaning for chimney sweeping and maintenance. They provided excellent service, detailed inspection,
+                                     and fixed a chimney crack. Professional, courteous, and reliable—highly recommended for fireplace and chimney services!
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -394,8 +388,8 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Mike Peter</h2>
-                                            <p>Journalist</p>
+                                            <h2>Lorinzo Adkins</h2>
+                                            <p>Male</p>
                                         </div>
                                     </div>
                                     <div class="icon">
@@ -411,9 +405,9 @@
                             <div class="content-wrapper">
                                 <div class="content">
                                     <p class="text">
-                                        Wuis aute irure dolor in reprehenderit in vol uptate velit esse cillum
-                                        dolore egoiu fugiat nulla pariatur. Except eur
-                                        sint occaecat vadro maser akash amar cupi datat non proident, sunt in qulpe.
+                                    Once your fireplace cleaning or inspection is done,
+                                     we ensure everything is secure and safely closed.
+                                     Our technicians make sure your fireplace is safe to use before finishing the service.
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -423,13 +417,12 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Nayna Eva</h2>
-                                            <p>Traveller</p>
+                                            <h2>Shellie Sandberg</h2>
+                                            <p>female</p>
                                         </div>
                                     </div>
                                     <div class="icon">
-                                        <img src="{{ asset('front/asset2/images/icon/testimonial-quotation.png') }}"
-                                            alt="testimonial" />
+                                        <img src="{{ asset('front/asset2/images/icon/testimonial-quotation.png') }}" alt="testimonial" />
                                     </div>
                                 </div>
                             </div>
@@ -440,9 +433,8 @@
                             <div class="content-wrapper">
                                 <div class="content">
                                     <p class="text">
-                                        Ruis aute irure dolor in reprehenderit in vol uptate velit esse cillum
-                                        dolore egoiu fugiat nulla pariatur. Except eur
-                                        sint occaecat vadro maser akash amar cupi datat non proident, sunt in culpa.
+                                    Fast, reliable, and thorough service! David Fireplace Cleaning cleaned our gas fireplace and conducted a safety inspection.
+                                     Great communication and honest recommendations. Definitely trust them with chimney and fireplace needs.
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -452,12 +444,12 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Jewel Khan</h2>
-                                            <p>Traveller</p>
+                                            <h2>Russell Martin</h2>
+                                            <p>Male</p>
                                         </div>
                                     </div>
                                     <div class="icon">
-                                        <img src="{{ asset('front/asset2/mages/icon/testimonial-quotation.png') }}"
+                                        <img src="{{ asset('front/asset2/images/icon/testimonial-quotation.png') }}"
                                             alt="testimonial" />
                                     </div>
                                 </div>

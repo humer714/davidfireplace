@@ -294,31 +294,31 @@
                     <div class="list-wrappers">
                         <h2 style="margin-bottom: 27px;">THINGS TO DO IN {{ $detail_data->title ?? '' }}</h2>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[0] ?? '#'}}" target="_blank">
-                            <div class="banner-link">
+                            <div class="banner-link" style="margin: 1.5rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Official Govt. Website</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[1] ?? '#'}}" target="_blank">
-                            <div class="banner-link">
+                            <div class="banner-link" style="margin: 1.5rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">More About {{ $detail_data->title ?? '' }}</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[2] ?? '#'}}" target="_blank">
-                            <div class="banner-link">
+                            <div class="banner-link" style="margin: 1.5rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Weather Of {{ $detail_data->title ?? '' }}</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[3] ?? '#'}}" target="_blank">
-                            <div class="banner-link">
+                            <div class="banner-link" style="margin: 1.5rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Pharmacies In {{ $detail_data->title ?? '' }}</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[4] ?? '#'}}" target="_blank">
-                            <div class="banner-link">
+                            <div class="banner-link" style="margin: 1.5rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Parks In {{ $detail_data->title ?? '' }}</div>
                             </div>
@@ -392,95 +392,7 @@
     </div>
 </div>
 
-<!-- Process Step Area Start -->
-<div class="process-step-area style-1">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-12">
-                <div class="section-title text-center align-items-center">
-                    <span class="short-title">How it works</span>
-                    <h2 class="title text-white">World Class <span>Logistics</span> and
-                        <br /><span>Transportation</span>
-                    </h2>
-                    <div class="divider"></div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-md-6 col-lg-5 col-xl-3">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="process-step">
-                            <div class="icon">
-                                <div class="count">
-                                    <span>01</span>
-                                </div>
-                            </div>
-                            <div class="content">
-                                <h2 class="title">Pick A Service</h2>
-                                <p class="desc">Ynim ad minim veniam ex ercitation pllamycp.</p>
-                            </div>
 
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="process-step">
-                            <div class="icon">
-                                <div class="count">
-                                    <span>03</span>
-                                </div>
-                            </div>
-                            <div class="content">
-                                <h2 class="title">Get Delivery</h2>
-                                <p class="desc">Dim ad minim veniam ex ercitation cllamycd.</p>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="align-self-end d-none d-lg-block col-lg-2 col-xl-6">
-                <div class="process-image d-none d-xl-block">
-                    <img class="tilt-animate" src="{{ asset('front/asset2/images/section-bg/process-img.png') }}"
-                        alt="image" />
-                </div>
-            </div>
-            <div class="col-12 col-md-6 col-lg-5 col-xl-3">
-                <div class="row">
-                    <div class="col-12">
-                        <div class="process-step">
-                            <div class="icon">
-                                <div class="count">
-                                    <span>02</span>
-                                </div>
-                            </div>
-                            <div class="content">
-                                <h2 class="title">Send Product</h2>
-                                <p class="desc">Unim ad minim veniam ex ercitation illamyce.</p>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="process-step">
-                            <div class="icon">
-                                <div class="count">
-                                    <span>04</span>
-                                </div>
-                            </div>
-                            <div class="content">
-                                <h2 class="title">Clear Payment</h2>
-                                <p class="desc">Onim ad minim veniam ex ercitation illamycy.</p>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Process Step Area End -->
 <!-- Testimonial Area Start -->
 <div class="testimonial-slider-area style-1 overflow-hidden">
     <div class="container">

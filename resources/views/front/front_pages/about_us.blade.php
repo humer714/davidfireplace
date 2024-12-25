@@ -50,7 +50,7 @@
                 <div class="col-xl-8 col-lg-6 col-md-6">
                     <div class="about-info-card style-three">
                         <div class="section-title">
-                            <span class="short-title">We are Transico</span>
+                            <span class="short-title">We are David Fireplace</span>
                             <h2 class="title">Top Tier <span>Fireplace</span> and <span>Chimney Care</span></h2>
                         </div>
                         <div class="about-info-wrapper">
@@ -157,35 +157,35 @@
                         <div class="counter-item">
                             <div class="counter-title">
                                 <h1 class="number">
-                                    <span class="counter">90</span>
+                                    <span class="counter">1</span>
                                 </h1>
-                                <p class="title">Total Countries</p>
+                                <p class="title">United States</p>
                             </div>
                             <div class="counter-content">
-                                <p class="text">accusa mnis iste natus error sit vol uptatem accusa nulla </p>
+                                <p class="text">Offering comprehensive fireplace services across the entire country</p>
                             </div>
 
                         </div>
                         <div class="counter-item">
                             <div class="counter-title">
                                 <h1 class="number">
-                                    <span class="counter">230</span>
+                                    <span class="counter">1700</span>
                                 </h1>
-                                <p class="title">Worldwide Cities</p>
+                                <p class="title">United States Cites</p>
                             </div>
                             <div class="counter-content">
-                                <p class="text">kccusa mnis iste natus error sit vol uptatem accusa oulla </p>
+                                <p class="text">Providing fireplace services in 1700 locations of USA </p>
                             </div>
                         </div>
                         <div class="counter-item">
                             <div class="counter-title">
                                 <h1 class="number">
-                                    <span class="counter">500</span> <span>+</span>
+                                    <span class="counter">5000</span> <span>+</span>
                                 </h1>
                                 <p class="title">People Engaged</p>
                             </div>
                             <div class="counter-content">
-                                <p class="text">pccusa mnis iste natus error sit vol uptatem accusa iulle </p>
+                                <p class="text">Providing expert fireplace services to numerous satisfied clients </p>
                             </div>
                         </div>
                         <div class="counter-item">
@@ -193,10 +193,10 @@
                                 <h1 class="number">
                                     <span class="counter">10</span> <span>M</span>
                                 </h1>
-                                <p class="title">Package Delivery</p>
+                                <p class="title">Order Delivered</p>
                             </div>
                             <div class="counter-content">
-                                <p class="text">dccusa mnis iste natus error sit vol uptatem accusa yulls </p>
+                                <p class="text">Successfully completing fireplace services with customer satisfaction</p>
                             </div>
                         </div>
                     </div>
@@ -212,11 +212,12 @@
                 <div class="col-lg-12">
                     <div class="section-title">
                         <span class="short-title">Frequently Asked Questions</span>
-                        <h2 class="title">The <span>Progressive</span> & <span>Flexible </span> <br>Transport coverage
+                        <h2 class="title">The <span>Reliable </span> & <span>Efficient  </span> <br>Fireplace Services
                         </h2>
-                        <p class="text mt-30">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-                            eu fugi atmnis ist met, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-                            when the musics over turn off the light</p>
+                        <p class="text mt-30">David Fireplace Cleaning offers reliable and efficient fireplace and chimney services,
+                             including cleaning, maintenance, repair, and safety inspections. Our certified experts ensure your fireplace operates safely and efficiently, 
+                             providing peace of mind and preventing potential hazards.
+                        </p>
                     </div>
 
                     <nav>

@@ -90,7 +90,7 @@
             <div class="col-md-12">
                 <div class="breadcrumb-wrapper">
                     <div class="page-heading">
-                        <h3 class="page-title">Dan Garage Door Broken Spring, {{ $detail_data->title ?? '' }},
+                        <h3 class="page-title" style="font-size: 40px;">David Fire Place Cleaning Repair, {{ $detail_data->title ?? '' }},
                             {{ $detail_data->state->title ?? '' }}
                         </h3>
                     </div>
@@ -123,9 +123,9 @@
                             <img src="{{ asset('front/asset2/images/icon/map.png') }}" alt="map" />
                         </div>
                         <div class="content">
-                            <h2 class="title">World Class Transport</h2>
-                            <p class="desc">Wpel ad minim veniam, quis nostud exercitation ull amco laboris nisi ut
-                                quip betha kake jeye. Onek durer ekla pothe klanto ami firi tomar qasd.</p>
+                            <h2 class="title">Top-Quality Fireplace Services</h2>
+                            <p class="desc">Elivering top-quality fireplace and chimney services, ensuring safety, efficiency,
+                                 and customer satisfaction with every service completed.</p>
                         </div>
                         <div class="divider"></div>
                     </div>
@@ -136,9 +136,8 @@
                             <img src="{{ asset('front/asset2/images/icon/home_3_icon_card_1.png') }}" alt="map" />
                         </div>
                         <div class="content">
-                            <h2 class="title">Guarranted Safety & Security</h2>
-                            <p class="desc">Hned ad minim veniam, quis nostud exercitation ull amco laboris nisi ut
-                                quip betha kake jeye. Onek durer ekla pothe klanto ami firi tomar easy.</p>
+                            <h2 class="title">Trusted Fireplace Safety & Care</h2>
+                            <p class="desc">Ensuring your home’s safety with guaranteed fireplace and chimney inspections, cleaning, and repairs for long-term protection.</p>
                         </div>
                         <div class="divider"></div>
                     </div>
@@ -149,9 +148,8 @@
                             <img src="{{ asset('front/asset2/images/icon/home_3_icon_card_3.png') }}" alt="map" />
                         </div>
                         <div class="content">
-                            <h2 class="title">Flexible Pricing Plans</h2>
-                            <p class="desc">Whim ad minim veniam, quis nostud exercitation ull amco laboris nisi ut
-                                quip betha kake jeye. Onek durer ekla pothe klanto ami firi tomar ernm.</p>
+                            <h2 class="title">Affordable Service Options</h2>
+                            <p class="desc">Offering flexible pricing for all fireplace and chimney services, tailored to fit your budget without compromising on quality.</p>
                         </div>
                         <div class="divider"></div>
                     </div>
@@ -162,9 +160,8 @@
                             <img src="{{ asset('front/asset2/images/icon/home_3_icon_card_4.png') }}" alt="map" />
                         </div>
                         <div class="content">
-                            <h2 class="title">Smart Team & Management</h2>
-                            <p class="desc">Klem ad minim veniam, quis nostud exercitation ull amco laboris nisi ut
-                                quip betha kake jeye. Onek durer ekla pothe klanto ami firi tomar prnd.</p>
+                            <h2 class="title">Expert Technicians & Service</h2>
+                            <p class="desc">Dedicated team of certified fireplace experts providing efficient service, professional advice, and ensuring optimal performance for every customer.</p>
                         </div>
                         <div class="divider"></div>
                     </div>
@@ -292,33 +289,33 @@
             <div class="col-lg-4 col-sm-12 price-card">
                 <div class="">
                     <div class="list-wrappers">
-                        <h2 style="margin-bottom: 27px;">THINGS TO DO IN {{ $detail_data->title ?? '' }}</h2>
+                        <h2 style="margin-bottom: 27px;">Things To Do In {{ $detail_data->title ?? '' }}</h2>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[0] ?? '#'}}" target="_blank">
-                            <div class="banner-link" style="margin: 1.5rem 0;">
+                            <div class="banner-link" style="margin: 1.6rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Official Govt. Website</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[1] ?? '#'}}" target="_blank">
-                            <div class="banner-link" style="margin: 1.5rem 0;">
+                            <div class="banner-link" style="margin: 1.6rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">More About {{ $detail_data->title ?? '' }}</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[2] ?? '#'}}" target="_blank">
-                            <div class="banner-link" style="margin: 1.5rem 0;">
+                            <div class="banner-link" style="margin: 1.6rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Weather Of {{ $detail_data->title ?? '' }}</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[3] ?? '#'}}" target="_blank">
-                            <div class="banner-link" style="margin: 1.5rem 0;">
+                            <div class="banner-link" style="margin: 1.6rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Pharmacies In {{ $detail_data->title ?? '' }}</div>
                             </div>
                         </a>
                         <a href="{{json_decode($detail_data->dynamic_url, true)[4] ?? '#'}}" target="_blank">
-                            <div class="banner-link" style="margin: 1.5rem 0;">
+                            <div class="banner-link" style="margin: 1.6rem 0;">
                                 <div class="icon"></div>
                                 <div class="text">Parks In {{ $detail_data->title ?? '' }}</div>
                             </div>
@@ -329,7 +326,7 @@
             <div class="col-lg-8 col-sm-12 ">
                 <div class="list-wrappers price-card">
                     <h2>
-                        TOP FIREPLACE AND CHIMNEY SERVICES PEOPLE SEARCH FOR IN {{ $detail_data->title ?? '' }}
+                        Top Fireplace & Chimney Services People Search For In {{ $detail_data->title ?? '' }}
                     </h2>
                     <div class="right-banners">
                         <div class="col-sm-12">

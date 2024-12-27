@@ -13,46 +13,7 @@
 
 <!-- Header Start !-->
 <header class="header-area style-three">
-    <!-- Header Top Start -->
-    <div class="header-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-8 col-lg-9 d-flex align-items-center justify-content-start">
-                    <div class="header-top-info">
-                        <div class="header-contact-info">
-                            <span><span class="contact-info-item"><i class="fa-solid fa-location-dot"></i>20,
-                                    Bordeshi, New York,US</span></span>
-                            <span><a href="mailto:hello@transico.com"><i
-                                        class="fa-solid fa-envelope"></i>hello@transico.com</a> </span>
-                            <span><a href="tel:+123-456-7890"><i class="fa-solid fa-phone"></i>+123-456-7890</a></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-3 d-flex align-items-center justify-content-end">
-                    <div class="header-top-info">
-                        <div class="social-profile">
-                            <a href="#">
-                                <i class="fab fa-instagram"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-linkedin"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-yelp"></i>
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-yahoo"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Header Top End -->
+
     <!-- Header Nav Menu Start -->
     <div class="header-menu-area sticky-header">
         <div class="container">

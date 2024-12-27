@@ -18,7 +18,7 @@
                                                 <i class="fa-solid fa-location-dot"></i>
                                             </div>
                                             <div class="contact-text">
-                                                <span>22/1 Bardeshi, Amin Bazar<br />Dhaka 1348</span>
+                                                <span>United State</span>
                                             </div>
                                         </li>
                                         <li>
@@ -26,7 +26,7 @@
                                                 <i class="fa-light fa-envelope"></i>
                                             </div>
                                             <div class="contact-text">
-                                                <a href="mailto:hello@transico.com"><span>hello@transico.com</span></a>
+                                                <a href="mailto:Support@customerdeskhelp.com"><span>Info@davidfireplacecleaningrepair.com</span></a>
                                             </div>
                                         </li>
                                         <li>
@@ -34,7 +34,7 @@
                                                 <i class="fa-solid fa-phone"></i>
                                             </div>
                                             <div class="contact-text">
-                                                <span>+88 01234 567 890</span>
+                                                <span>+1 (866) 511-2657</span>
                                             </div>
                                         </li>
                                     </ul>
@@ -113,7 +113,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-text">
-                        <p>© 2024 Dan garage door broken spring repair. All rights reserved.</p>
+                        <p>© 2024 <a  href="https://www.dottscale.com" style="color: #ff6731;">Dott Scale</a> All rights reserved.</p>
                     </div>
                 </div>
             </div>

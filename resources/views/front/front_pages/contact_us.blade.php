@@ -47,7 +47,7 @@
                         </div>
                         <div class="content">
                             <h2 class="title">Address</h2>
-                            <p class="desc">20, Bordeshi, New York, US</p>
+                            <p class="desc">United State</p>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                         </div>
                         <div class="content">
                             <h2 class="title">Phone</h2>
-                            <p class="desc">+123 456 7890</p>
+                            <p class="desc">+1 (866) 511-2657</p>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                         </div>
                         <div class="content">
                             <h2 class="title">Email</h2>
-                            <p class="desc">hello@transco.com</p>
+                            <p class="desc">Info@davidfireplacecleaningrepair.com</p>
                         </div>
                     </div>
                 </div>
@@ -206,7 +206,7 @@
         <div class="col-12">
             <div class="map-wodget">
                 <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6678.7619084840835!2d144.9618311901502!3d-37.81450084255415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642b4758afc1d%3A0x3119cc820fdfc62e!2sEnvato!5e0!3m2!1sen!2sbd!4v1641984054261!5m2!1sen!2sbd"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52887706.14540557!2d-161.74454347928352!3d35.99563672201457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited%20States!5e0!3m2!1sen!2s!4v1735340196221!5m2!1sen!2s"
                     style="border:0;" allowfullscreen="" loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>

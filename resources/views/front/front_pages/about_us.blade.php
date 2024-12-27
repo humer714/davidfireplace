@@ -137,7 +137,7 @@
                             </div>
                             <div class="content">
                                 <span>Call Us Now</span>
-                                <span class="text">+123 - 456 - 7890</span>
+                                <span class="text">+1 (866) 511-2657</span>
                             </div>
                         </div>
                     </div>
@@ -366,7 +366,7 @@
                 <div class="col-12">
                     <div class="section-title text-center align-items-center mb-50">
                         <span class="short-title">Testimonials</span>
-                        <h2 class="title">What <span>People</span> Say About <br /> Our<span> Service</span></h2>
+                        <h2 class="title">What <span>Clients</span> Say <br /> About <span>Us</span></h2>
                         <div class="divider"></div>
                     </div>
                 </div>
@@ -419,7 +419,7 @@
                                         </div>
                                         <div class="info">
                                             <h2>Shellie Sandberg</h2>
-                                            <p>female</p>
+                                            <p>Female</p>
                                         </div>
                                     </div>
                                     <div class="icon">

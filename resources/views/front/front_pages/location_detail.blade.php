@@ -209,16 +209,15 @@
             <div class="col-lg-7">
                 <div class="section-title">
                     <span class="short-title">Our Service</span>
-                    <h2 class="title">Best <span>Logistic</span> Service
+                    <h2 class="title">Best <span>Fireplace</span> Service
                         <br> Anywhere
                     </h2>
                 </div>
             </div>
             <div class="col-lg-5 align-self-end">
                 <div class="section-content">
-                    <p class="mb-0">Muis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiatmnis iste na minim veniam, quis nostrud exercita tion ullamco laboris nisi ut aliquip ex
-                        ea dommode</p>
+                    <p class="mb-0">We offer the best fireplace cleaning, chimney inspections,
+                         and expert repairs to ensure safety and efficiency. Trusted by homeowners for top-quality service and affordable solutions nationwide.</p>
                 </div>
             </div>
         </div>
@@ -398,8 +397,7 @@
                 <div class="section-title mb-40">
                     <span class="short-title">Testimonials</span>
                     <h2 class="title">What <span>Clients</span> Say <br /> About <span>Us</span></h2>
-                    <p class="text">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiatmnis iste natus error sit voluptatem accusa mnis</p>
+                    <p class="text">Customers praise David Fireplace Cleaning & Repair for reliable, professional service, expert technicians, friendly staff, and affordable, quality results.</p>
                 </div>
                 <div class="testimonial-slider-arrow">
                     <button type='button' class="testimonial-arrow-btn" id="trigger_testimonial_prev"><i
@@ -418,8 +416,8 @@
                             </div>
                             <div class="content-wrapper">
                                 <div class="content">
-                                    <p class="text">Penim ad minim veniam quis nostrud exe rcitati oen ullamco labor
-                                        is nisi ut aliq uip ex ea comm odo cons equa uis aute iruoesre trud exeon clly
+                                    <p class="text">David Fireplace Cleaning provided excellent chimney cleaning and safety inspection. The technicians were professional,
+                                         thorough, and efficient. Highly recommend for anyone needing fireplace maintenance and repairs.
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -429,8 +427,8 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Mike Peter</h2>
-                                            <p>Journalist</p>
+                                            <h2>Lorinzo Adkins</h2>
+                                            <p>Male</p>
                                         </div>
                                     </div>
                                     <div class="icon">
@@ -449,8 +447,8 @@
                             </div>
                             <div class="content-wrapper">
                                 <div class="content">
-                                    <p class="text">Ueniy ad minim veniam quis nostrud exe rcitati oen ullamco labor
-                                        is nisi ut aliq uip ex ea comm odo cons equa uis aute iruoesre trud exeon dlle
+                                    <p class="text">Fast, reliable, and thorough service! David Fireplace Cleaning cleaned our gas fireplace and conducted a safety inspection.
+                                         Great communication and honest recommendations. Definitely trust them with chimney and fireplace needs.
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -460,8 +458,8 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Jewel Khan</h2>
-                                            <p>Traveller</p>
+                                            <h2>Russell Martin</h2>
+                                            <p>Male</p>
                                         </div>
                                     </div>
                                     <div class="icon">
@@ -480,8 +478,8 @@
                             </div>
                             <div class="content-wrapper">
                                 <div class="content">
-                                    <p class="text">Oeniy ad minim veniam quis nostrud exe rcitati oen ullamco labor
-                                        is nisi ut aliq uip ex ea comm odo cons equa uis aute iruoesre trud exeon ells
+                                    <p class="text">I hired David Fireplace Cleaning for chimney sweeping and maintenance. They provided excellent service, detailed inspection, and fixed a chimney crack.
+                                         Professional, courteous, and reliable—highly recommended for fireplace and chimney services!
                                     </p>
                                 </div>
                                 <div class="meta-user">
@@ -491,8 +489,8 @@
                                                 alt="user" />
                                         </div>
                                         <div class="info">
-                                            <h2>Nayna Eva</h2>
-                                            <p>Traveller</p>
+                                            <h2>Shellie Sandberg</h2>
+                                            <p>Female</p>
                                         </div>
                                     </div>
                                     <div class="icon">
@@ -579,35 +577,35 @@
                                 <label for="services" class="form-label">
                                     <h5>type of service do you need?</h5>
                                 </label>
-                                <div class="form-check col-lg-6" style="background-color: #F2F5FA;">
+                                <div class="form-check col-lg-6">
                                     <input class="form-check-input" type="checkbox" id="garage_door_repair"
                                         style="border: #778196 1px solid !important;" name="garage_door_repair"
                                         value="Garage Door Repair">
                                     <label class="form-check-label" for="garage_door_repair">Garage Door
                                         Repair</label>
                                 </div>
-                                <div class="form-check col-lg-6" style="background-color: #F2F5FA;">
+                                <div class="form-check col-lg-6">
                                     <input class="form-check-input" type="checkbox" id="garage_opener_installation"
                                         style="border: #778196 1px solid !important;"
                                         name="garage_opener_installation" value="Garage Opener Installation">
                                     <label class="form-check-label" for="garage_opener_installation">Garage Opener
                                         Installation</label>
                                 </div>
-                                <div class="form-check col-lg-6" style="background-color: #F2F5FA;">
+                                <div class="form-check col-lg-6">
                                     <input class="form-check-input" type="checkbox" id="door_out_of_tracks"
                                         style="border: #778196 1px solid !important;" name="door_out_of_tracks"
                                         value="Door Out of Tracks">
                                     <label class="form-check-label" for="door_out_of_tracks">Door Out of
                                         Tracks</label>
                                 </div>
-                                <div class="form-check col-lg-6" style="background-color: #F2F5FA;">
+                                <div class="form-check col-lg-6">
                                     <input class="form-check-input" type="checkbox" id="garage_door_installation"
                                         style="border: #778196 1px solid !important;" name="garage_door_installation"
                                         value="Garage Door Installation">
                                     <label class="form-check-label" for="garage_door_installation">Garage Door
                                         Installation</label>
                                 </div>
-                                <div class="form-check col-lg-6" style="background-color: #F2F5FA;">
+                                <div class="form-check col-lg-6">
                                     <input class="form-check-input" type="checkbox" id="other" name="other"
                                         style="border: #778196 1px solid !important;" value="Other">
                                     <label class="form-check-label" for="other">Other</label>
@@ -636,7 +634,7 @@
                 <div class="accordion-wrapper">
                     <div class="section-title mt-20 mb-20">
                         <span class="short-title text-white">Frequently Asked Questions</span>
-                        <h2 class="title text-white">Get the best logistic<br />service</h2>
+                        <h2 class="title text-white">The Safest and Trusted Fireplace<br />Services</h2>
                     </div>
 
                     <div class="accordion-box-wrapper" id="appointmentAreaStyle1FAQ">
@@ -645,14 +643,14 @@
                             <div id="headingOne">
                                 <div class="accordion-head" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                     aria-expanded="true" aria-controls="collapseOne">
-                                    <h3 class="accordion-title">How to send my percel?</h3>
+                                    <h3 class="accordion-title">Why David Fireplace is the Best Choice?</h3>
                                 </div>
                             </div>
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 aria-labelledby="headingOne" data-bs-parent="#appointmentAreaStyle1FAQ">
                                 <div class="accordion-item-body">
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiatmnis iste natus error sits when the musics over turn off the light</p>
+                                    <p>David Fireplace Cleaning is known for its expert services, affordable pricing, and commitment to safety.
+                                         Our skilled technicians ensure your fireplace and chimney function efficiently, making us a top choice.</p>
                                 </div>
                             </div>
                         </div>
@@ -662,14 +660,14 @@
                             <div id="headingTwo">
                                 <div class="accordion-head collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    <h3 class="accordion-title">What is the best way to use Transico?</h3>
+                                    <h3 class="accordion-title">What Are the Pricing Plans for Services?</h3>
                                 </div>
                             </div>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                 data-bs-parent="#appointmentAreaStyle1FAQ">
                                 <div class="accordion-item-body">
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiatmnis iste natus error sits when the musics over turn off the light</p>
+                                    <p>We offer affordable pricing for all our fireplace and chimney services, including cleaning, inspections, and repairs. 
+                                        Get transparent quotes based on your needs, with no hidden fees or surprises.</p>
                                 </div>
                             </div>
                         </div>
@@ -680,14 +678,14 @@
                                 <div class="accordion-head collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false"
                                     aria-controls="collapseThree">
-                                    <h3 class="accordion-title">Why Transico is very popualr?</h3>
+                                    <h3 class="accordion-title">How to Get a Refund if Service Fails?</h3>
                                 </div>
                             </div>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 aria-labelledby="headingThree" data-bs-parent="#appointmentAreaStyle1FAQ">
                                 <div class="accordion-item-body">
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiatmnis iste natus error sits when the musics over turn off the light</p>
+                                    <p>If any of our fireplace services do not meet your expectations, we offer a clear refund process.
+                                         Your satisfaction is our priority, and we’ll resolve any issues promptly.</p>
                                 </div>
                             </div>
                         </div>
@@ -698,14 +696,14 @@
                                 <div class="accordion-head collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFour" aria-expanded="false"
                                     aria-controls="collapseFour">
-                                    <h3 class="accordion-title">How to get refund from Transico?</h3>
+                                    <h3 class="accordion-title">When Service Is Complete, Close the Hearth?</h3>
                                 </div>
                             </div>
                             <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
                                 data-bs-parent="#appointmentAreaStyle1FAQ">
                                 <div class="accordion-item-body">
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiatmnis iste natus error sits when the musics over turn off the light</p>
+                                    <p>Once your fireplace cleaning or inspection is done, we ensure everything is secure and safely closed.
+                                         Our technicians make sure your fireplace is safe to use before finishing the service.</p>
                                 </div>
                             </div>
                         </div>
@@ -716,14 +714,14 @@
                                 <div class="accordion-head collapsed" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFive" aria-expanded="false"
                                     aria-controls="collapseFive">
-                                    <h3 class="accordion-title">How to receive my percel?</h3>
+                                    <h3 class="accordion-title">What is creosote, and why is it dangerous?</h3>
                                 </div>
                             </div>
                             <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
                                 data-bs-parent="#appointmentAreaStyle1FAQ">
                                 <div class="accordion-item-body">
-                                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                                        fugiatmnis iste natus error sits when the musics over turn off the light</p>
+                                    <p>Creosote is a byproduct of burning wood and can accumulate on the walls of your chimney. Over time, it hardens and can become a fire hazard.
+                                         In severe cases, creosote buildup can block the chimney, leading to poor ventilation and increased risk of fire.</p>
                                 </div>
                             </div>
                         </div>

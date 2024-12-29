@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 
-    <title>Cleaning Website</title>
+    <title>David FirePlace Cleaning Repair</title>
 
     <meta name="description" content="">
     <meta name="author" content="">
@@ -46,7 +46,7 @@
                                 Welcome to
                             </p>
                             <p class="font-italic text-white-op">
-                                Cleaning Website &copy; <span class="js-year-copy"></span>
+                               <a href="https://www.dottscale.com">Dott Scale</a> &copy; <span class="js-year-copy"></span>
                             </p>
                         </div>
                     </div>

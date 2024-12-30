@@ -526,9 +526,14 @@
                         <h2>Get A Free Quote</h2>
                     </div>
                     @if (Session::has('message'))
-                    <p class="alert {{ Session::get('alert-class', 'alert-info') }} mb-2">
-                        {{ Session::get('message') }}
-                    </p>
+                        <p class="alert {{ Session::get('alert-class', 'alert-info') }} mb-2">
+                            {{ Session::get('message') }}
+                        </p>
+                    @endif
+                    @if (Session::has('errors'))
+                        <p class="alert {{ Session::get('alert-class', 'alert-danger') }} mb-2">
+                            {{ Session::get('errors') }}
+                        </p>
                     @endif
                     <form action="{{ route('contact.store') }}" method="post" class="comment-form">
                         @csrf
@@ -614,6 +619,12 @@
                             <div class="col-xl-12">
                                 <div class="contacts-message">
                                     <textarea name="message" cols="20" rows="3" placeholder="Start writing your message"></textarea>
+                                </div>
+                            </div>
+                            <div class="col-xl-12">
+                                <div class="contacts-name">
+                                    {!! NoCaptcha::renderJs() !!}
+                                    {!! NoCaptcha::display() !!}
                                 </div>
                             </div>
                             <div class="col-12">

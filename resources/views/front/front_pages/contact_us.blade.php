@@ -96,6 +96,12 @@
                             {{ Session::get('message') }}
                         </p>
                     @endif
+                    @if (Session::has('errors'))
+                        <p class="alert {{ Session::get('alert-class', 'alert-danger') }} mb-2">
+                            {{ Session::get('errors') }}
+                        </p>
+                    @endif
+                    
                     <!-- Comment Form Start -->
                     <div class="comment-respond mt-45">
                         <form action="{{ route('contact.store') }}" method="post" class="comment-form">
@@ -182,6 +188,12 @@
                                 <div class="col-xl-12">
                                     <div class="contacts-message">
                                         <textarea name="message" cols="20" rows="3" placeholder="Start writing your message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-xl-12">
+                                    <div class="contacts-name">
+                                        {!! NoCaptcha::renderJs() !!}
+                                        {!! NoCaptcha::display() !!}
                                     </div>
                                 </div>
                                 <div class="col-12">

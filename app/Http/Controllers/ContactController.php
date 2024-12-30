@@ -21,7 +21,7 @@ class ContactController extends Controller
      */
     public function index()
     {
-        $contact = Contact::all();
+        $contact = Contact::orderBy('id', 'desc')->get();
         return view('admin.contact.index', compact('contact'));
     }
 
@@ -51,9 +51,14 @@ class ContactController extends Controller
             'postal_code' => 'required|max:255',
             'phone_number' => 'required|max:255',
             'message' => 'required',
-        ]);
+            'g-recaptcha-response' => 'required|captcha'
+        ],
+        [
+            'g-recaptcha-response.required' => 'Please complete the captcha'
+        ]
+    );
         if ($validator->fails()) {
-            return redirect()->route('contact')->with('message',  $validator->errors()->first());
+            return redirect()->route('contact')->with('errors',  $validator->errors()->first());
         }
        
         $details = [
@@ -125,5 +130,10 @@ class ContactController extends Controller
     {
         $contact->delete();
         return redirect()->route('contact.index')->with('success', 'Contact has been deleted');
+    }
+    public function delete_all()
+    {
+        Contact::truncate();
+        return redirect()->route('contact.index')->with('success', 'All Contact has been deleted');
     }
 }

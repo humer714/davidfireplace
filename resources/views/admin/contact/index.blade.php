@@ -20,6 +20,8 @@
         <div class="block block-themed">
             <div class="block-header bg-gd-dusk">
                 <h3 class="block-title">Contact List</h3>
+                <button class="btn btn-primary" type="button" id="show_confirm"><i class="fa fa-trash mr-2"></i>Delete
+                    All</button>
             </div>
             <div class="block-content block-content-full">
                 <!-- DataTables functionality is initialized with .js-dataTable-full class in js/pages/be_tables_datatables.min.js which was auto compiled from _es6/pages/be_tables_datatables.js -->
@@ -77,10 +79,31 @@
     </div>
 @endsection
 @section('script')
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js"></script>
     <!-- Page JS Plugins -->
     <script src="{{ asset('assets/js/plugins/datatables/jquery.dataTables.min.js') }}"></script>
     <script src="{{ asset('assets/js/plugins/datatables/dataTables.bootstrap4.min.js') }}"></script>
 
     <!-- Page JS Code -->
     <script src="{{ asset('assets/js/pages/be_tables_datatables.min.js') }}"></script>
+    <script type="text/javascript">
+        $('#show_confirm').click(function(event) {
+            event.preventDefault();
+            swal({
+                    title: `Are you sure you want to delete all contact?`,
+
+                    text: "If you delete this, it will be gone forever.",
+                    icon: "warning",
+                    buttons: true,
+                    dangerMode: true,
+                })
+                .then((willDelete) => {
+                    if (willDelete) {
+                        window.location.href = "{{ route('contact.delete_all') }}";
+                    }
+
+                });
+
+        });
+    </script>
 @endsection

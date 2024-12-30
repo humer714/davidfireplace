@@ -58,9 +58,10 @@ Route::group(['middleware' => ['auth']], function () {
     Route::prefix('admin')->group(function () {
         Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 
+        // contact.delete_all route
+        Route::get('contact/delete_all', [ContactController::class, 'delete_all'])->name('contact.delete_all'); //this route must above resource route
         // for Contact route
         Route::resource('contact', ContactController::class)->except('store');
-
         // for Services route
         Route::resource('services', ServiceController::class, ['parameters' => [
             'services' => 'services:slug',

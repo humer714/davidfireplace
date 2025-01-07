@@ -65,7 +65,11 @@
         column-gap: 1rem;
         row-gap: 1rem;
     }
-
+    @media (max-width: 576px) { /* Mobile sizes */
+        .right-banners {
+            display: block; /* Reset grid layout */
+        }
+    }
     .list-wrappers h2 {
         font-size: 18px;
         text-align: center;
@@ -285,7 +289,7 @@
 <div class="pricing-area style-1 background-gray" style="padding-top: 40px !important; padding-bottom: 40px !important;">
     <div class="container">
         <div class="row ">
-            <div class="col-lg-4 col-sm-12 price-card">
+            <div class="col-lg-4 mb-2 price-card">
                 <div class="">
                     <div class="list-wrappers">
                         <h2 style="margin-bottom: 27px;">Things To Do In {{ $detail_data->title ?? '' }}</h2>
@@ -322,62 +326,66 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-8 col-sm-12 ">
+            <div class="col-lg-8 mb-2 ">
                 <div class="list-wrappers price-card">
                     <h2>
                         Top Fireplace & Chimney Services People Search For In {{ $detail_data->title ?? '' }}
                     </h2>
                     <div class="right-banners">
-                        <div class="col-sm-12">
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Fireplace Cleaning Services {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Chimney Cleaning {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Chimney Sweep {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Fireplace Cleaning Services {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Chimney Cleaning {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Chimney Sweep {{ $detail_data->title ?? '' }}</div>
+                        <div class="row mb-1">
+                            <div class="col-lg-12">
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Fireplace Cleaning Services {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Chimney Cleaning {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Chimney Sweep {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Fireplace Cleaning Services {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Chimney Cleaning {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Chimney Sweep {{ $detail_data->title ?? '' }}</div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-sm-12">
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Cracked Chimney Repair {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Fireplace Repair {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Certified Chimney Inspectors {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Cracked Chimney Repair {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Fireplace Repair {{ $detail_data->title ?? '' }}</div>
-                            </div>
-                            <div class="banner-link">
-                                <div class="icon"></div>
-                                <div class="text">Certified Chimney Inspectors {{ $detail_data->title ?? '' }}</div>
+                        <div class="row mb-1">
+                            <div class="col-lg-12">  
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Cracked Chimney Repair {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Fireplace Repair {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Certified Chimney Inspectors {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Cracked Chimney Repair {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Fireplace Repair {{ $detail_data->title ?? '' }}</div>
+                                </div>
+                                <div class="banner-link">
+                                    <div class="icon"></div>
+                                    <div class="text">Certified Chimney Inspectors {{ $detail_data->title ?? '' }}</div>
+                                </div>
                             </div>
                         </div>
                     </div>

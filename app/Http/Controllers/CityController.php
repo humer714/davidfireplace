@@ -74,6 +74,9 @@ class CityController extends Controller
         } else {
             $input['image'] = 'default.jpg';
         }
+        
+        // array to string conversion error
+        $input['dynamic_url'] = json_encode($request->input('dynamic_url', [])); // Encode URLs as JSON
         $data = City::create($input);
 
         return redirect()->route('city.index')->with('success', 'City created successfully');

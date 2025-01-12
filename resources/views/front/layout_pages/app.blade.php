@@ -84,6 +84,14 @@
         </div>
     </div>
     <!-- Scroll Up Section End -->
+    {{-- show cal' icon same as scroll --}}
+    <!-- Call Button Section -->
+    <div id="callButton" class="scrollup-wrapper"style="right: 100px;">
+        <button class="scrollup-btn btn btn-primary rounded-circle">
+            <i class="fa-solid fa-phone"></i>
+        </button>
+    </div>
+    <!-- Scroll Down Section End -->
     <script src="{{ asset('front/asset2/js/jquery.min.js') }}"></script>
     <script src="{{ asset('front/asset2/js/bootstrap.min.js') }}"></script>
     <script src="{{ asset('front/asset2/js/jquery.nice-select.min.js') }}"></script>
